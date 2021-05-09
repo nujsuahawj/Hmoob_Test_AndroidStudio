@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FNS</string>
+
+    <string name="title_home">Tsev</string>
+    <string name="title_dashboard">Xais</string>
+    <string name="title_notifications">Qhias</string>
+    <string name="yog">Yog</string>
+</resources>
